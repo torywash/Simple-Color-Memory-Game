@@ -16,8 +16,7 @@ This was a pretty fun one, I enjoyed doing it and i feel like i did a good job o
 <hr>
 1) Download the python file to somewhere on your computer
 2) Using *CMD* or an *IDE*, run the file and follow the directions in the terminal!
-	1) If using CMD
-		1) Copy the File Path
-		2) Go into terminal and type 'cd {file path}'
-		3) Then type 'python colorGame.py'
-3) Enjoy!
+*If using CMD*
+1) Copy the File Path
+2) Go into terminal and type 'cd {file path}'
+3) Then type 'python colorGame.py'
